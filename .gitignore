@@ -1,6 +1,8 @@
 .idea
 .env
 .idea
+*.iml
+.idea/
 
 # Ignore macOS system files
 .DS_Store
